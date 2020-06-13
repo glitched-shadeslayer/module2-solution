@@ -12,7 +12,7 @@ h1 {
     text-align: center;
 }
 
-p {
+div {
     border: 5px solid #2e2530;
     background-color: #e4f3cc;
     height: 150px;
@@ -22,7 +22,7 @@ p {
     color: #140606;
 }
 
-p > p {
+div > div {
     border: 2px solid #2e2530;
     background-color: #269dec;
     height: 10%;
