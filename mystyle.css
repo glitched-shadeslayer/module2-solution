@@ -13,12 +13,12 @@ h1 {
 }
 
 p {
-    border: 1px solid rgb(46, 37, 48);
-    background-color: #d5f1a8;
+    border: 1px solid #2e2530;
+    background-color: #e4f3cc;
     width: 90%;
     height: 150px;
     margin-right: auto;
     margin-left: auto;
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
-    color: rgb(22, 5, 5);
+    color: #140606;
 }
