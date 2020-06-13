@@ -31,9 +31,9 @@ div > p {
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     color: #140606;
     position: relative;
-    left: 20px;
+    left: 70%;
     top: 0px;
-    right: 0px;
+    /*right: 0px;*/
 }
 
 .row {
