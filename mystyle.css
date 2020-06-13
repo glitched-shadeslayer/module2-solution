@@ -13,22 +13,24 @@ h1 {
 }
 
 div {
-    border: 5px solid #2e2530;
+    border: 1px solid #2e2530;
     background-color: #e4f3cc;
     height: 150px;
     margin-right: auto;
     margin-left: auto;
+    margin-bottom: 10px;
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     color: #140606;
 }
 
 div > p {
-    border: 2px solid #2e2530;
+    border: 1px solid #2e2530;
     background-color: #269dec;
     height: 30%;
     width: 30%;
     margin-top: 0px;
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    text-align: center;
     color: #140606;
     position: relative;
     left: 70%;
@@ -44,7 +46,7 @@ div > p {
 @media (min-width: 992px) {
     .col-lg-4 {
         float: left;
-        width: 33.33%;
+        width: 30%;
     }
 }
 
@@ -54,7 +56,7 @@ div > p {
         float: left;
     }
     .col-md-6 {
-        width: 50%;
+        width: 45%;
     }
     .col-md-12 {
         width: 100%;
