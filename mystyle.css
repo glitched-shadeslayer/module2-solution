@@ -16,9 +16,10 @@ div {
     border: 1px solid #2e2530;
     background-color: #e4f3cc;
     height: 150px;
-    margin-right: auto;
+    margin-right: 10px;
     margin-left: auto;
     margin-bottom: 10px;
+    padding-left: 10px;
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     color: #140606;
 }
