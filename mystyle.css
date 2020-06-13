@@ -27,13 +27,13 @@ div > p {
     background-color: #269dec;
     height: 30%;
     width: 30%;
-    margin-right: 0px;
     margin-top: 0px;
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     color: #140606;
     position: relative;
     left: 20px;
     top: 0px;
+    right: 0px;
 }
 
 .row {
