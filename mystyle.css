@@ -32,6 +32,7 @@ p > p {
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     color: #140606;
     position: relative;
+    left: 20px;
 }
 
 .row {
