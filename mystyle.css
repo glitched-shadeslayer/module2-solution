@@ -17,7 +17,7 @@ div {
     border: 1px solid #2e2530;
     background-color: #e4f3cc;
     height: 150px;
-    padding-left: 10px;
+    padding: 1%;
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     color: #140606;
 }
@@ -28,6 +28,7 @@ div > p {
     height: 30%;
     width: 30%;
     margin-top: 0px;
+    padding: 1%;
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     text-align: center;
     color: #140606;
