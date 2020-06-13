@@ -30,6 +30,7 @@ div > p {
     height: 29%;
     width: 30%;
     margin-top: 0px;
+    margin-bottom: 1px;
     padding: 0.75%;
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-weight: bold;
