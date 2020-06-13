@@ -20,6 +20,7 @@ div {
     height: 150px;
     padding-left: 0.75%;
     padding-bottom: 0.75%;
+    overflow: auto;
     font-family: "Comic Sans MS", cursive, sans-serif;
     color: #140606;
 }
@@ -37,6 +38,7 @@ div > p {
     position: relative;
     left: 70%;
     top: 0px;
+    overflow: auto;
     /*right: 0px;*/
 }
 
