@@ -4,10 +4,21 @@
 
 body {
     background-color: lightblue;
-  }
+}
   
 h1 {
     color: navy;
     margin-left: 20px;
     text-align: center;
-  }
+}
+
+p {
+    border: 1px solid rgb(46, 37, 48);
+    background-color: #9dff00;
+    width: 90%;
+    height: 150px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    color: white;
+}
