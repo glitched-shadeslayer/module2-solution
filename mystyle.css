@@ -17,9 +17,6 @@ div {
     border: 1px solid #2e2530;
     background-color: #e4f3cc;
     height: 150px;
-    margin-right: 1.66%;
-    margin-left: 1.66%;
-    margin-bottom: 10px;
     padding-left: 10px;
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     color: #140606;
@@ -49,6 +46,7 @@ div > p {
     .col-lg-4 {
         float: left;
         width: 30%;
+        margin: 1.66%;
     }
 }
 
@@ -59,9 +57,11 @@ div > p {
     }
     .col-md-6 {
         width: 45%;
+        margin: 3%;
     }
     .col-md-12 {
-        width: 93.32%;
+        width: 96%;
+        margin: 3%;
     }
 }
 
