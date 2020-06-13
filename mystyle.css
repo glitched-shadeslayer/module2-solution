@@ -69,6 +69,7 @@ div > p {
 @media (max-width: 767px) {
     .col-sm-12 {
         float: left;
-        width: 100%;
+        width: 95%;
+        margin: 2.5%;
     }
 }
