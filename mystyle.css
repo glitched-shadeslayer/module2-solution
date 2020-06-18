@@ -16,7 +16,7 @@ h1 {
 div {
     border: 1px solid #2e2530;
     background-color: rgb(175, 174, 174);
-    height: 190px;
+    height: auto;
     padding-left: 0.75%;
     padding-bottom: 0.75%;
     overflow: auto;
